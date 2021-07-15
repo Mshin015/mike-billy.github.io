@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: blue;
+    color: orange
+    
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+img {
+    size: 50px;
+}
